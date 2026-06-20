@@ -1,0 +1,7 @@
+build/
+cmake-build-*/
+.DS_Store
+*.jucer.user
+
+__pycache__/
+*.py[cod]
